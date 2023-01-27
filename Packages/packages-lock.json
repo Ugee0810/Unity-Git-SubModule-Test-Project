@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.sugar.submoduletest": {
+      "version": "file:../unity-git-submodule-test-bb",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "1.15.18",
       "depth": 0,
