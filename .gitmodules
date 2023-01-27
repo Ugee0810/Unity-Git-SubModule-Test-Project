@@ -1,0 +1,3 @@
+[submodule "unity-git-submodule-test-bb"]
+	path = unity-git-submodule-test-bb
+	url = https://shu0810@bitbucket.org/shu0810/unity-git-submodule-test-bb.git
